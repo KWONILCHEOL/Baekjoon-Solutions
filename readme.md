@@ -14,5 +14,4 @@
 
 | ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
 | -- | ---- | :-- | :-- | --- | --- |
-| 12899 | 2 | 124 나라의 숫자 | 연습문제 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12899) / [풀이](/solutions/12899%20-%20124%20나라의%20숫자/README.md) | [![cpp](/assets/cpp.svg)](/solutions/) [![python3](/assets/python3.svg)](/solutions/) |
-| 12899 | 2 | 124 나라의 숫자 | 연습문제 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12899) / [풀이](/solutions/12899%20-%20124%20나라의%20숫자/README.md) | [![cpp](/assets/cpp.svg)](/solutions/) [![python3](/assets/python3.svg)](/solutions/) |
+| 1397 | G1 | 백조의 호수 | 연습문제 | [문제](https://www.acmicpc.net/problem/3197) / [풀이](/solutions/[G1]3197 백조의 호수/) | [![cpp](/assets/cpp.svg)](/solutions/) [![python3](/assets/python3.svg)](/solutions/) |
