@@ -14,4 +14,4 @@
 
 | ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
 | -- | ---- | :-- | :-- | --- | --- |
-| 1397 | G1 | 백조의 호수 | 연습문제 | [문제](https://www.acmicpc.net/problem/3197) / [풀이](/solutions/%5BG1%5D3197%20백조의%20호수/) | [![cpp](/assets/cpp.svg)](/solutions/) [![python3](/assets/python3.svg)](/solutions/) |
+| 1397 | G1 | 백조의 호수 | 연습문제 | [문제](https://www.acmicpc.net/problem/3197) / [풀이](/solutions/%5BG1%5D3197%20백조의%20호수/) | [![cpp](/assets/cpp.svg)](/solutions/) |
