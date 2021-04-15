@@ -1,20 +1,6 @@
-# Programmers Solutions
-**시간 날 때마다 정답 코드와 풀이를 추가하고 있습니다.**
-**먼저 설명이 필요한 문제가 있으시면 Issue로 등록해 주세요.**
-
-## 코드 명명법
-
-| 이름 | 설명 |
-| --- | --- |
-| `short.*` | 숏코딩 풀이 |
-| `solution.*` | 최대한 이해하기 쉽게 쓴 풀이 |
-| `submit.*` | 백준 사이트에 등록되어 있는 풀이 |
-
-## 문제 목록
-
 | ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
 | -- | ---- | :-- | :-- | --- | --- |
-| 1397 | G1 | 백조의 호수 | 연습문제 | [문제](https://www.acmicpc.net/problem/3197) / [풀이](/solutions/%5BG1%5D3197%20백조의%20호수/) | [![cpp](/assets/cpp.svg)](/solutions/%5BG1%5D3197%20백조의%20호수/submit.cpp) |
+| 1397 | G1 | 백조의 호수 | 연습문제 | [문제](https://www.acmicpc.net/problem/3197) / [풀이](/solutions/%eb%b0%b1%ec%a1%b0%ec%9d%98+%ed%98%b8%ec%88%98) | 언어 |
 | 2208 | G2 | 보석 줍기 | 연습문제 | [문제](https://www.acmicpc.net/problem/2208) / [풀이](/solutions/%eb%b3%b4%ec%84%9d+%ec%a4%8d%ea%b8%b0) | 언어 |
 | 4491 | G2 | 로봇 청소기 | 연습문제 | [문제](https://www.acmicpc.net/problem/4491) / [풀이](/solutions/%eb%a1%9c%eb%b4%87+%ec%b2%ad%ec%86%8c%ea%b8%b0) | 언어 |
 | 13459 | G3 | 구슬 탈출 | 연습문제 | [문제](https://www.acmicpc.net/problem/13459) / [풀이](/solutions/%ea%b5%ac%ec%8a%ac+%ed%83%88%ec%b6%9c) | 언어 |

@@ -3,7 +3,7 @@
     "id": "1397",
     "level": "G1",
     "title": "백조의 호수",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/3197",
     "language": [
       "cpp"
@@ -13,7 +13,7 @@
     "id": "2208",
     "level": "G2",
     "title": "보석 줍기",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/2208",
     "language": [
       "cpp"
@@ -23,7 +23,7 @@
     "id": "4491",
     "level": "G2",
     "title": "로봇 청소기",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/4491",
     "language": [
       "cpp"
@@ -33,7 +33,7 @@
     "id": "13459",
     "level": "G3",
     "title": "구슬 탈출",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/13459",
     "language": [
       "cpp"
@@ -43,7 +43,7 @@
     "id": "13460",
     "level": "G3",
     "title": "구슬 탈출2",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/13460",
     "language": [
       "cpp"
@@ -53,7 +53,7 @@
     "id": "1941",
     "level": "G4",
     "title": "소문난 칠공주",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/1941",
     "language": [
       "cpp"
@@ -63,7 +63,7 @@
     "id": "2458",
     "level": "G4",
     "title": "키 순서",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/2458",
     "language": [
       "cpp"
@@ -73,7 +73,7 @@
     "id": "2473",
     "level": "G4",
     "title": "세 용액",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/2473",
     "language": [
       "cpp"
@@ -83,7 +83,7 @@
     "id": "2638",
     "level": "G4",
     "title": "치즈",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/2638",
     "language": [
       "cpp"
@@ -93,7 +93,7 @@
     "id": "4179",
     "level": "G4",
     "title": "불!",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/4179",
     "language": [
       "cpp"
@@ -103,7 +103,7 @@
     "id": "5427",
     "level": "G4",
     "title": "불",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/5427",
     "language": [
       "cpp"
@@ -113,7 +113,7 @@
     "id": "9466",
     "level": "G4",
     "title": "텀 프로젝트",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/9466",
     "language": [
       "cpp"
@@ -123,7 +123,7 @@
     "id": "11404",
     "level": "G4",
     "title": "플로이드",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/11404",
     "language": [
       "cpp"
@@ -133,7 +133,7 @@
     "id": "16120",
     "level": "G4",
     "title": "플로이드",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/16120",
     "language": [
       "cpp"
@@ -143,7 +143,7 @@
     "id": "17140",
     "level": "G4",
     "title": "이차원 배열과 연산",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/17140",
     "language": [
       "cpp"
@@ -153,7 +153,7 @@
     "id": "20056",
     "level": "G4",
     "title": "마법사 상어와 파이어볼",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/20056",
     "language": [
       "cpp"
@@ -163,7 +163,7 @@
     "id": "1747",
     "level": "G5",
     "title": "소수&팰린드롬",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/1747",
     "language": [
       "cpp"
@@ -173,7 +173,7 @@
     "id": "2470",
     "level": "G5",
     "title": "두 용액",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/2470",
     "language": [
       "cpp"
@@ -183,7 +183,7 @@
     "id": "13549",
     "level": "G5",
     "title": "숨바꼭질 3",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/13549",
     "language": [
       "cpp"
@@ -193,7 +193,7 @@
     "id": "15961",
     "level": "G5",
     "title": "회전 초밥",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/15961",
     "language": [
       "cpp"
@@ -203,7 +203,7 @@
     "id": "1713",
     "level": "S1",
     "title": "후보 추천하기",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/1713",
     "language": [
       "cpp"
@@ -213,7 +213,7 @@
     "id": "1790",
     "level": "S1",
     "title": "수 이어 쓰기 2",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/1790",
     "language": [
       "cpp"
@@ -223,7 +223,7 @@
     "id": "1932",
     "level": "S1",
     "title": "정수 삼각형",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/1932",
     "language": [
       "cpp"
@@ -233,7 +233,7 @@
     "id": "2294",
     "level": "S1",
     "title": "동전 2",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/2294",
     "language": [
       "cpp"
@@ -243,7 +243,7 @@
     "id": "2564",
     "level": "S1",
     "title": "경비원",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/2564",
     "language": [
       "cpp"
@@ -253,7 +253,7 @@
     "id": "2608",
     "level": "S1",
     "title": "로마 숫자",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/2608",
     "language": [
       "cpp"
@@ -263,7 +263,7 @@
     "id": "4889",
     "level": "S1",
     "title": "안정적인 문자열",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/4889",
     "language": [
       "cpp"
@@ -273,7 +273,7 @@
     "id": "11048",
     "level": "S1",
     "title": "이동하기",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/11048",
     "language": [
       "cpp"
@@ -283,7 +283,7 @@
     "id": "11286",
     "level": "S1",
     "title": "절대값 힙",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/11286",
     "language": [
       "cpp"
@@ -293,7 +293,7 @@
     "id": "13335",
     "level": "S1",
     "title": "트럭",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/13335",
     "language": [
       "cpp"
@@ -303,7 +303,7 @@
     "id": "15900",
     "level": "S1",
     "title": "나무 탈출",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/15900",
     "language": [
       "cpp"
@@ -313,7 +313,7 @@
     "id": "15973",
     "level": "S1",
     "title": "두 박스",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/15973",
     "language": [
       "cpp"
@@ -323,7 +323,7 @@
     "id": "16918",
     "level": "S1",
     "title": "봄버맨",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/16918",
     "language": [
       "cpp"
@@ -333,7 +333,7 @@
     "id": "18405",
     "level": "S1",
     "title": "경쟁적 전염",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/18405",
     "language": [
       "cpp"
@@ -343,7 +343,7 @@
     "id": "10816",
     "level": "S4",
     "title": "숫자 카드 2",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/10816",
     "language": [
       "cpp"
@@ -353,7 +353,7 @@
     "id": "11723",
     "level": "S5",
     "title": "집합",
-    "category": "연습",
+    "category": "연습문제",
     "link": "https://www.acmicpc.net/problem/11723",
     "language": [
       "cpp"
