@@ -1,4 +1,4 @@
-//[G4]1941 소문난 칠공주
+//[G3]1941 소문난 칠공주
 //https://www.acmicpc.net/problem/1941
 #include<cstdio>
 #include<vector>
