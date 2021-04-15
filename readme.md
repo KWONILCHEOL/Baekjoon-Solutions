@@ -45,8 +45,8 @@
 | 11286 | S1 | 절대값 힙 | 연습문제 | [문제](https://www.acmicpc.net/problem/11286) / [풀이](/solutions/%5BS1%5D11286%20절대값%20힙) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D11286%20절대값%20힙/submit.cpp) |
 | 13335 | S1 | 트럭 | 연습문제 | [문제](https://www.acmicpc.net/problem/13335) / [풀이](/solutions/%5BS1%5D13335%20트럭) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D13335%20트럭/submit.cpp) |
 | 15900 | S1 | 나무 탈출 | 연습문제 | [문제](https://www.acmicpc.net/problem/15900) / [풀이](/solutions/%5BS1%5D15900%20나무%20탈출) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D15900%20나무%20탈출/submit.cpp) |
-| 15973 | S1 | 두 박스 | 연습문제 | [문제](https://www.acmicpc.net/problem/15973) / [풀이](/solutions/%eb%91%90+%eb%b0%95%ec%8a%a4) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 16918 | S1 | 봄버맨 | 연습문제 | [문제](https://www.acmicpc.net/problem/16918) / [풀이](/solutions/%eb%b4%84%eb%b2%84%eb%a7%a8) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 18405 | S1 | 경쟁적 전염 | 연습문제 | [문제](https://www.acmicpc.net/problem/18405) / [풀이](/solutions/%ea%b2%bd%ec%9f%81%ec%a0%81+%ec%a0%84%ec%97%bc) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 10816 | S4 | 숫자 카드 2 | 연습문제 | [문제](https://www.acmicpc.net/problem/10816) / [풀이](/solutions/%ec%88%ab%ec%9e%90+%ec%b9%b4%eb%93%9c+2) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 11723 | S5 | 집합 | 연습문제 | [문제](https://www.acmicpc.net/problem/11723) / [풀이](/solutions/%ec%a7%91%ed%95%a9) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
+| 15973 | S1 | 두 박스 | 연습문제 | [문제](https://www.acmicpc.net/problem/15973) / [풀이](/solutions/%5BS1%5D15973%20두%20박스) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D15973%20두%20박스/submit.cpp) |
+| 16918 | S1 | 봄버맨 | 연습문제 | [문제](https://www.acmicpc.net/problem/16918) / [풀이](/solutions/%5BS1%5D16918%20봄버맨) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D16918%20봄버맨/submit.cpp) |
+| 18405 | S1 | 경쟁적 전염 | 연습문제 | [문제](https://www.acmicpc.net/problem/18405) / [풀이](/solutions/%5BS1%5D18405%20경쟁적%20전염) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D18405%20경쟁적%20전염/submit.cpp) |
+| 10816 | S4 | 숫자 카드 2 | 연습문제 | [문제](https://www.acmicpc.net/problem/10816) / [풀이](/solutions/%5BS4%5D10816%20숫자%20카드%202) | [![cpp](/assets/cpp.svg)](/solutions/%5BS4%5D10816%20숫자%20카드%202/submit.cpp) |
+| 11723 | S5 | 집합 | 연습문제 | [문제](https://www.acmicpc.net/problem/11723) / [풀이](/solutions/%5BS5%5D11723%20집합) | [![cpp](/assets/cpp.svg)](/solutions/%5BS5%5D11723%20집합/submit.cpp) |
