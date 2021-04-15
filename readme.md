@@ -16,35 +16,35 @@
 | -- | ---- | :-- | :-- | --- | --- |
 | 1397 | G1 | 백조의 호수 | 연습문제 | [문제](https://www.acmicpc.net/problem/3197) / [풀이](/solutions/%5BG1%5D3197%20백조의%20호수/) | [![cpp](/assets/cpp.svg)](/solutions/%5BG1%5D3197%20백조의%20호수/submit.cpp) |
 | 2208 | G2 | 보석 줍기 | 연습문제 | [문제](https://www.acmicpc.net/problem/2208) / [풀이](/solutions/%5BG2%5D2208%20보석%20줍기) | [![cpp](/assets/cpp.svg)](/solutions/%5BG2%5D2208%20보석%20줍기/submit.cpp) |
-| 4491 | G2 | 로봇 청소기 | 연습문제 | [문제](https://www.acmicpc.net/problem/4491) / [풀이](/solutions/%eb%a1%9c%eb%b4%87+%ec%b2%ad%ec%86%8c%ea%b8%b0) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 13459 | G3 | 구슬 탈출 | 연습문제 | [문제](https://www.acmicpc.net/problem/13459) / [풀이](/solutions/%ea%b5%ac%ec%8a%ac+%ed%83%88%ec%b6%9c) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 13460 | G3 | 구슬 탈출2 | 연습문제 | [문제](https://www.acmicpc.net/problem/13460) / [풀이](/solutions/%ea%b5%ac%ec%8a%ac+%ed%83%88%ec%b6%9c2) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 1941 | G4 | 소문난 칠공주 | 연습문제 | [문제](https://www.acmicpc.net/problem/1941) / [풀이](/solutions/%ec%86%8c%eb%ac%b8%eb%82%9c+%ec%b9%a0%ea%b3%b5%ec%a3%bc) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 2458 | G4 | 키 순서 | 연습문제 | [문제](https://www.acmicpc.net/problem/2458) / [풀이](/solutions/%ed%82%a4+%ec%88%9c%ec%84%9c) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 2473 | G4 | 세 용액 | 연습문제 | [문제](https://www.acmicpc.net/problem/2473) / [풀이](/solutions/%ec%84%b8+%ec%9a%a9%ec%95%a1) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 2638 | G4 | 치즈 | 연습문제 | [문제](https://www.acmicpc.net/problem/2638) / [풀이](/solutions/%ec%b9%98%ec%a6%88) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 4179 | G4 | 불! | 연습문제 | [문제](https://www.acmicpc.net/problem/4179) / [풀이](/solutions/%eb%b6%88!) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 5427 | G4 | 불 | 연습문제 | [문제](https://www.acmicpc.net/problem/5427) / [풀이](/solutions/%eb%b6%88) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 9466 | G4 | 텀 프로젝트 | 연습문제 | [문제](https://www.acmicpc.net/problem/9466) / [풀이](/solutions/%ed%85%80+%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 11404 | G4 | 플로이드 | 연습문제 | [문제](https://www.acmicpc.net/problem/11404) / [풀이](/solutions/%ed%94%8c%eb%a1%9c%ec%9d%b4%eb%93%9c) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 16120 | G4 | 플로이드 | 연습문제 | [문제](https://www.acmicpc.net/problem/16120) / [풀이](/solutions/%ed%94%8c%eb%a1%9c%ec%9d%b4%eb%93%9c) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 17140 | G4 | 이차원 배열과 연산 | 연습문제 | [문제](https://www.acmicpc.net/problem/17140) / [풀이](/solutions/%ec%9d%b4%ec%b0%a8%ec%9b%90+%eb%b0%b0%ec%97%b4%ea%b3%bc+%ec%97%b0%ec%82%b0) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 20056 | G4 | 마법사 상어와 파이어볼 | 연습문제 | [문제](https://www.acmicpc.net/problem/20056) / [풀이](/solutions/%eb%a7%88%eb%b2%95%ec%82%ac+%ec%83%81%ec%96%b4%ec%99%80+%ed%8c%8c%ec%9d%b4%ec%96%b4%eb%b3%bc) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 1747 | G5 | 소수&팰린드롬 | 연습문제 | [문제](https://www.acmicpc.net/problem/1747) / [풀이](/solutions/%ec%86%8c%ec%88%98%26%ed%8c%b0%eb%a6%b0%eb%93%9c%eb%a1%ac) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 2470 | G5 | 두 용액 | 연습문제 | [문제](https://www.acmicpc.net/problem/2470) / [풀이](/solutions/%eb%91%90+%ec%9a%a9%ec%95%a1) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 13549 | G5 | 숨바꼭질 3 | 연습문제 | [문제](https://www.acmicpc.net/problem/13549) / [풀이](/solutions/%ec%88%a8%eb%b0%94%ea%bc%ad%ec%a7%88+3) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 15961 | G5 | 회전 초밥 | 연습문제 | [문제](https://www.acmicpc.net/problem/15961) / [풀이](/solutions/%ed%9a%8c%ec%a0%84+%ec%b4%88%eb%b0%a5) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 1713 | S1 | 후보 추천하기 | 연습문제 | [문제](https://www.acmicpc.net/problem/1713) / [풀이](/solutions/%ed%9b%84%eb%b3%b4+%ec%b6%94%ec%b2%9c%ed%95%98%ea%b8%b0) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 1790 | S1 | 수 이어 쓰기 2 | 연습문제 | [문제](https://www.acmicpc.net/problem/1790) / [풀이](/solutions/%ec%88%98+%ec%9d%b4%ec%96%b4+%ec%93%b0%ea%b8%b0+2) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 1932 | S1 | 정수 삼각형 | 연습문제 | [문제](https://www.acmicpc.net/problem/1932) / [풀이](/solutions/%ec%a0%95%ec%88%98+%ec%82%bc%ea%b0%81%ed%98%95) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 2294 | S1 | 동전 2 | 연습문제 | [문제](https://www.acmicpc.net/problem/2294) / [풀이](/solutions/%eb%8f%99%ec%a0%84+2) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 2564 | S1 | 경비원 | 연습문제 | [문제](https://www.acmicpc.net/problem/2564) / [풀이](/solutions/%ea%b2%bd%eb%b9%84%ec%9b%90) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 2608 | S1 | 로마 숫자 | 연습문제 | [문제](https://www.acmicpc.net/problem/2608) / [풀이](/solutions/%eb%a1%9c%eb%a7%88+%ec%88%ab%ec%9e%90) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 4889 | S1 | 안정적인 문자열 | 연습문제 | [문제](https://www.acmicpc.net/problem/4889) / [풀이](/solutions/%ec%95%88%ec%a0%95%ec%a0%81%ec%9d%b8+%eb%ac%b8%ec%9e%90%ec%97%b4) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 11048 | S1 | 이동하기 | 연습문제 | [문제](https://www.acmicpc.net/problem/11048) / [풀이](/solutions/%ec%9d%b4%eb%8f%99%ed%95%98%ea%b8%b0) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 11286 | S1 | 절대값 힙 | 연습문제 | [문제](https://www.acmicpc.net/problem/11286) / [풀이](/solutions/%ec%a0%88%eb%8c%80%ea%b0%92+%ed%9e%99) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 13335 | S1 | 트럭 | 연습문제 | [문제](https://www.acmicpc.net/problem/13335) / [풀이](/solutions/%ed%8a%b8%eb%9f%ad) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
-| 15900 | S1 | 나무 탈출 | 연습문제 | [문제](https://www.acmicpc.net/problem/15900) / [풀이](/solutions/%eb%82%98%eb%ac%b4+%ed%83%88%ec%b6%9c) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
+| 4491 | G2 | 로봇 청소기 | 연습문제 | [문제](https://www.acmicpc.net/problem/4491) / [풀이](/solutions/%5BG2%5D4491%20로봇%20청소기) | [![cpp](/assets/cpp.svg)](/solutions/%5BG2%5D4491%20로봇%20청소기/submit.cpp) |
+| 13459 | G3 | 구슬 탈출 | 연습문제 | [문제](https://www.acmicpc.net/problem/13459) / [풀이](/solutions/%5BG3%5D13459%20구슬%20탈출) | [![cpp](/assets/cpp.svg)](/solutions/%5BG3%5D13459%20구슬%20탈출/submit.cpp) |
+| 13460 | G3 | 구슬 탈출2 | 연습문제 | [문제](https://www.acmicpc.net/problem/13460) / [풀이](/solutions/%5BG3%5D13460%20구슬%20탈출2) | [![cpp](/assets/cpp.svg)](/solutions/%5BG3%5D13460%20구슬%20탈출2/submit.cpp) |
+| 1941 | G4 | 소문난 칠공주 | 연습문제 | [문제](https://www.acmicpc.net/problem/1941) / [풀이](/solutions/%5BG4%5D1941%20소문난%20칠공주) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D1941%20소문난%20칠공주/submit.cpp) |
+| 2458 | G4 | 키 순서 | 연습문제 | [문제](https://www.acmicpc.net/problem/2458) / [풀이](/solutions/%5BG4%5D2458%20키%20순서) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D2458%20키%20순서/submit.cpp) |
+| 2473 | G4 | 세 용액 | 연습문제 | [문제](https://www.acmicpc.net/problem/2473) / [풀이](/solutions//%5BG4%5D2473%20세%20용액) | [![cpp](/assets/cpp.svg)](/solutions//%5BG4%5D2473%20세%20용액/submit.cpp) |
+| 2638 | G4 | 치즈 | 연습문제 | [문제](https://www.acmicpc.net/problem/2638) / [풀이](/solutions/%5BG4%5D2638%20치즈) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D2638%20치즈/submit.cpp) |
+| 4179 | G4 | 불! | 연습문제 | [문제](https://www.acmicpc.net/problem/4179) / [풀이](/solutions/%5BG4%5D4179%20불!) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D4179%20불!/submit.cpp) |
+| 5427 | G4 | 불 | 연습문제 | [문제](https://www.acmicpc.net/problem/5427) / [풀이](/solutions/%5BG4%5D5427%20불) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D5427%20불/submit.cpp) |
+| 9466 | G4 | 텀 프로젝트 | 연습문제 | [문제](https://www.acmicpc.net/problem/9466) / [풀이](/solutions/%5BG4%5D9466%20텀%20프로젝트) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D9466%20텀%20프로젝트/submit.cpp) |
+| 11404 | G4 | 플로이드 | 연습문제 | [문제](https://www.acmicpc.net/problem/11404) / [풀이](/solutions/%5BG4%5D11404%20플로이드) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D11404%20플로이드/submit.cpp) |
+| 16120 | G4 | PPAP | 연습문제 | [문제](https://www.acmicpc.net/problem/16120) / [풀이](/solutions/%5BG4%5D16120%20PPAP) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D16120%20PPAP/submit.cpp) |
+| 17140 | G4 | 이차원 배열과 연산 | 연습문제 | [문제](https://www.acmicpc.net/problem/17140) / [풀이](/solutions/%5BG4%5D17140%20이차원%20배열과%20연산) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D17140%20이차원%20배열과%20연산/submit.cpp) |
+| 20056 | G4 | 마법사 상어와 파이어볼 | 연습문제 | [문제](https://www.acmicpc.net/problem/20056) / [풀이](/solutions/%5BG4%5D20056%20마법사%20상어와%20파이어볼) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D20056%20마법사%20상어와%20파이어볼/submit.cpp) |
+| 1747 | G5 | 소수&팰린드롬 | 연습문제 | [문제](https://www.acmicpc.net/problem/1747) / [풀이](/solutions/%5BG5%5D1747%20소수%26팰린드롬) | [![cpp](/assets/cpp.svg)](/solutions/%5BG5%5D1747%20소수%26팰린드롬/submit.cpp) |
+| 2470 | G5 | 두 용액 | 연습문제 | [문제](https://www.acmicpc.net/problem/2470) / [풀이](/solutions/%5BG5%5D2470%20두%20용액) | [![cpp](/assets/cpp.svg)](/solutions/%5BG5%5D2470%20두%20용액/submit.cpp) |
+| 13549 | G5 | 숨바꼭질 3 | 연습문제 | [문제](https://www.acmicpc.net/problem/13549) / [풀이](/solutions/%5BG5%5D13549%20숨바꼭질%203) | [![cpp](/assets/cpp.svg)](/solutions/%5BG5%5D13549%20숨바꼭질%203/submit.cpp) |
+| 15961 | G5 | 회전 초밥 | 연습문제 | [문제](https://www.acmicpc.net/problem/15961) / [풀이](/solutions/%5BG5%5D15961%20회전%20초밥) | [![cpp](/assets/cpp.svg)](/solutions/%5BG5%5D15961%20회전%20초밥/submit.cpp) |
+| 1713 | S1 | 후보 추천하기 | 연습문제 | [문제](https://www.acmicpc.net/problem/1713) / [풀이](/solutions/%5BS1%5D1713%20후보%20추천하기) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D1713%20후보%20추천하기/submit.cpp) |
+| 1790 | S1 | 수 이어 쓰기 2 | 연습문제 | [문제](https://www.acmicpc.net/problem/1790) / [풀이](/solutions/%5BS1%5D1790%20수%20이어%20쓰기%202) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D1790%20수%20이어%20쓰기%202/submit.cpp) |
+| 1932 | S1 | 정수 삼각형 | 연습문제 | [문제](https://www.acmicpc.net/problem/1932) / [풀이](/solutions/%5BS1%5D1932%20정수%20삼각형) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D1932%20정수%20삼각형/submit.cpp) |
+| 2294 | S1 | 동전 2 | 연습문제 | [문제](https://www.acmicpc.net/problem/2294) / [풀이](/solutions/%5BS1%5D2294%20동전%202) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D2294%20동전%202/submit.cpp) |
+| 2564 | S1 | 경비원 | 연습문제 | [문제](https://www.acmicpc.net/problem/2564) / [풀이](/solutions/%5BS1%5D2564%20경비원) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D2564%20경비원/submit.cpp) |
+| 2608 | S1 | 로마 숫자 | 연습문제 | [문제](https://www.acmicpc.net/problem/2608) / [풀이](/solutions/%5BS1%5D2608%20로마%20숫자) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D2608%20로마%20숫자/submit.cpp) |
+| 4889 | S1 | 안정적인 문자열 | 연습문제 | [문제](https://www.acmicpc.net/problem/4889) / [풀이](/solutions/%5BS1%5D4889%20안정적인%20문자열) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D4889%20안정적인%20문자열/submit.cpp) |
+| 11048 | S1 | 이동하기 | 연습문제 | [문제](https://www.acmicpc.net/problem/11048) / [풀이](/solutions/%5BS1%5D11048%20이동하기) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D11048%20이동하기/submit.cpp) |
+| 11286 | S1 | 절대값 힙 | 연습문제 | [문제](https://www.acmicpc.net/problem/11286) / [풀이](/solutions/%5BS1%5D11286%20절대값%20힙) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D11286%20절대값%20힙/submit.cpp) |
+| 13335 | S1 | 트럭 | 연습문제 | [문제](https://www.acmicpc.net/problem/13335) / [풀이](/solutions/%5BS1%5D13335%20트럭) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D13335%20트럭/submit.cpp) |
+| 15900 | S1 | 나무 탈출 | 연습문제 | [문제](https://www.acmicpc.net/problem/15900) / [풀이](/solutions/%5BS1%5D15900%20나무%20탈출) | [![cpp](/assets/cpp.svg)](/solutions/%5BS1%5D15900%20나무%20탈출/submit.cpp) |
 | 15973 | S1 | 두 박스 | 연습문제 | [문제](https://www.acmicpc.net/problem/15973) / [풀이](/solutions/%eb%91%90+%eb%b0%95%ec%8a%a4) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
 | 16918 | S1 | 봄버맨 | 연습문제 | [문제](https://www.acmicpc.net/problem/16918) / [풀이](/solutions/%eb%b4%84%eb%b2%84%eb%a7%a8) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
 | 18405 | S1 | 경쟁적 전염 | 연습문제 | [문제](https://www.acmicpc.net/problem/18405) / [풀이](/solutions/%ea%b2%bd%ec%9f%81%ec%a0%81+%ec%a0%84%ec%97%bc) | [![cpp](/assets/cpp.svg)](/solutions//submit.cpp) |
