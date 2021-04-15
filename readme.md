@@ -21,7 +21,7 @@
 | 13460 | G3 | 구슬 탈출2 | 연습문제 | [문제](https://www.acmicpc.net/problem/13460) / [풀이](/solutions/%5BG3%5D13460%20구슬%20탈출2) | [![cpp](/assets/cpp.svg)](/solutions/%5BG3%5D13460%20구슬%20탈출2/submit.cpp) |
 | 1941 | G4 | 소문난 칠공주 | 연습문제 | [문제](https://www.acmicpc.net/problem/1941) / [풀이](/solutions/%5BG4%5D1941%20소문난%20칠공주) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D1941%20소문난%20칠공주/submit.cpp) |
 | 2458 | G4 | 키 순서 | 연습문제 | [문제](https://www.acmicpc.net/problem/2458) / [풀이](/solutions/%5BG4%5D2458%20키%20순서) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D2458%20키%20순서/submit.cpp) |
-| 2473 | G4 | 세 용액 | 연습문제 | [문제](https://www.acmicpc.net/problem/2473) / [풀이](/solutions//%5BG4%5D2473%20세%20용액) | [![cpp](/assets/cpp.svg)](/solutions//%5BG4%5D2473%20세%20용액/submit.cpp) / [![python3](/assets/python3.svg)](/solutions//%5BG4%5D2473%20세%20용액/submit.py) |
+| 2473 | G4 | 세 용액 | 연습문제 | [문제](https://www.acmicpc.net/problem/2473) / [풀이](/solutions//%5BG4%5D2473%20세%20용액) | [![cpp](/assets/cpp.svg)](/solutions//%5BG4%5D2473%20세%20용액/submit.cpp)[![python3](/assets/python3.svg)](/solutions//%5BG4%5D2473%20세%20용액/submit.py) |
 | 2638 | G4 | 치즈 | 연습문제 | [문제](https://www.acmicpc.net/problem/2638) / [풀이](/solutions/%5BG4%5D2638%20치즈) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D2638%20치즈/submit.cpp) |
 | 4179 | G4 | 불! | 연습문제 | [문제](https://www.acmicpc.net/problem/4179) / [풀이](/solutions/%5BG4%5D4179%20불!) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D4179%20불!/submit.cpp) |
 | 5427 | G4 | 불 | 연습문제 | [문제](https://www.acmicpc.net/problem/5427) / [풀이](/solutions/%5BG4%5D5427%20불) | [![cpp](/assets/cpp.svg)](/solutions/%5BG4%5D5427%20불/submit.cpp) |
