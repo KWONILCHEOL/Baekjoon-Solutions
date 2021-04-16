@@ -4,3 +4,4 @@
 
 | 언어 | short | solution | submit |
 | --- | ----- | -------- | ------ |
+| Python3 | - | - | [submit.py](submit.py) |
