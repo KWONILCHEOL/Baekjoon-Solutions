@@ -124,3 +124,4 @@
 | 14501 | S4 | 퇴사 | 연습문제 | [문제](https://www.acmicpc.net/problem/14501) / [풀이](/solutions/%5BS4%5D14501%20퇴사/) | [![python3](/assets/python3.svg)](/solutions/%5BS4%5D14501%20퇴사/submit.py)  |
 | 1764 | S4 | 듣보잡 | 연습문제 | [문제](https://www.acmicpc.net/problem/1764) / [풀이](/solutions/%5BS4%5D1764%20듣보잡/) | [![python3](/assets/python3.svg)](/solutions/%5BS4%5D1764%20듣보잡/submit.py)  |
 | 11723 | S5 | 집합 | 연습문제 | [문제](https://www.acmicpc.net/problem/11723) / [풀이](/solutions/%5BS5%5D11723%20집합/) | [![cpp](/assets/cpp.svg)](/solutions/%5BS5%5D11723%20집합/submit.cpp)  |
+| 16947 | G3 | 서울 지하철 2호선 | 연습문제 | [문제](https://www.acmicpc.net/problem/16947) / [풀이](/solutions/%5BG3%5D16947%20서울%20지하철%202호선/) | [![python3](/assets/python3.svg)](/solutions/%5BG3%5D16947%20서울%20지하철%202호선/submit.py)  |
