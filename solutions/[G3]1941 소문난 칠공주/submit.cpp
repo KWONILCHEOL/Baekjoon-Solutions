@@ -11,7 +11,7 @@ int dx[] = { 0,1,0,-1 };
 int dy[] = { 1,0,-1,0 };
 char s[5][5];
 short visit[5][5];
-vector<NODE> princess;	//ÇöÀç °øÁÖ
+vector<NODE> princess;	//?„??ê³µì£¼
 set<vector<NODE>> ans;
 
 void go(int n, int cnt) {
