@@ -1,4 +1,4 @@
-# Programmers Solutions
+# Baekjoon Solutions
 **시간 날 때마다 정답 코드와 풀이를 추가하고 있습니다.**
 **먼저 설명이 필요한 문제가 있으시면 Issue로 등록해 주세요.**
 
