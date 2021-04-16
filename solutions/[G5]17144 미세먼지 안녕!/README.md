@@ -1,6 +1,6 @@
 | ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
 | -- | ---- | :-- | :-- | --- | --- |
-| 2098 | G1 | 외판원 순회 | 연습문제 | [문제](https://www.acmicpc.net/problem/2098) | [![python3](/assets/python3.svg)](/solutions/%5BG1%5D2098%20외판원%20순회/submit.py)  |
+| 17144 | G5 | 미세먼지 안녕! | 연습문제 | [문제](https://www.acmicpc.net/problem/17144) | [![python3](/assets/python3.svg)](/solutions/%5BG5%5D17144%20미세먼지%20안녕!/submit.py)  |
 
 | 언어 | short | solution | submit |
 | --- | ----- | -------- | ------ |

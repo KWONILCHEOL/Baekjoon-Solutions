@@ -1,6 +1,6 @@
 | ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
 | -- | ---- | :-- | :-- | --- | --- |
-| 2098 | G1 | 외판원 순회 | 연습문제 | [문제](https://www.acmicpc.net/problem/2098) | [![python3](/assets/python3.svg)](/solutions/%5BG1%5D2098%20외판원%20순회/submit.py)  |
+| 17142 | G4 | 연구소 3 | 연습문제 | [문제](https://www.acmicpc.net/problem/17142) | [![python3](/assets/python3.svg)](/solutions/%5BG4%5D17142%20연구소%203/submit.py)  |
 
 | 언어 | short | solution | submit |
 | --- | ----- | -------- | ------ |
