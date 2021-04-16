@@ -20,6 +20,7 @@
 | 13460 | G3 | 구슬 탈출2 | 연습문제 | [문제](https://www.acmicpc.net/problem/13460) / [풀이](/solutions/%5BG3%5D13460%20구슬%20탈출2/) | [![cpp](/assets/cpp.svg)](/solutions/%5BG3%5D13460%20구슬%20탈출2/submit.cpp)  |
 | 15483 | G3 | 최소 편집 | 연습문제 | [문제](https://www.acmicpc.net/problem/15483) / [풀이](/solutions/%5BG3%5D15483%20최소%20편집/) | [![python3](/assets/python3.svg)](/solutions/%5BG3%5D15483%20최소%20편집/submit.py)  |
 | 16434 | G3 | 드래곤 앤 던전 | 연습문제 | [문제](https://www.acmicpc.net/problem/16434) / [풀이](/solutions/%5BG3%5D16434%20드래곤%20앤%20던전/) | [![python3](/assets/python3.svg)](/solutions/%5BG3%5D16434%20드래곤%20앤%20던전/submit.py)  |
+| 16947 | G3 | 서울 지하철 2호선 | 연습문제 | [문제](https://www.acmicpc.net/problem/16947) / [풀이](/solutions/%5BG3%5D16947%20서울%20지하철%202호선/) | [![python3](/assets/python3.svg)](/solutions/%5BG3%5D16947%20서울%20지하철%202호선/submit.py)  |
 | 16986 | G3 | 인싸들의 가위바위보 | 연습문제 | [문제](https://www.acmicpc.net/problem/16986) / [풀이](/solutions/%5BG3%5D16986%20인싸들의%20가위바위보/) | [![python3](/assets/python3.svg)](/solutions/%5BG3%5D16986%20인싸들의%20가위바위보/submit.py)  |
 | 1781 | G3 | 컵라면 | 연습문제 | [문제](https://www.acmicpc.net/problem/1781) / [풀이](/solutions/%5BG3%5D1781%20컵라면/) | [![python3](/assets/python3.svg)](/solutions/%5BG3%5D1781%20컵라면/submit.py)  |
 | 1941 | G3 | 소문난 칠공주 | 연습문제 | [문제](https://www.acmicpc.net/problem/1941) / [풀이](/solutions/%5BG3%5D1941%20소문난%20칠공주/) | [![cpp](/assets/cpp.svg)](/solutions/%5BG3%5D1941%20소문난%20칠공주/submit.cpp) [![python3](/assets/python3.svg)](/solutions/%5BG3%5D1941%20소문난%20칠공주/submit.py)  |
